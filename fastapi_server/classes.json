@@ -1,0 +1,51 @@
+[
+  {
+    "class_id": 0,
+    "source_class": "1. Tea algal leaf spot",
+    "class_name": "Tea algal leaf spot",
+    "disease_vi": "Đốm lá do tảo",
+    "is_healthy": false
+  },
+  {
+    "class_id": 1,
+    "source_class": "2. Brown Blight",
+    "class_name": "Brown Blight",
+    "disease_vi": "Bệnh cháy nâu",
+    "is_healthy": false
+  },
+  {
+    "class_id": 2,
+    "source_class": "3. Gray Blight",
+    "class_name": "Gray Blight",
+    "disease_vi": "Bệnh cháy xám",
+    "is_healthy": false
+  },
+  {
+    "class_id": 3,
+    "source_class": "4. Helopeltis",
+    "class_name": "Helopeltis",
+    "disease_vi": "Bọ xít muỗi hại chè",
+    "is_healthy": false
+  },
+  {
+    "class_id": 4,
+    "source_class": "5. Red spider",
+    "class_name": "Red spider",
+    "disease_vi": "Nhện đỏ",
+    "is_healthy": false
+  },
+  {
+    "class_id": 5,
+    "source_class": "6. Green mirid bug",
+    "class_name": "Green mirid bug",
+    "disease_vi": "Bọ xít xanh",
+    "is_healthy": false
+  },
+  {
+    "class_id": 6,
+    "source_class": "7. Healthy leaf",
+    "class_name": "Healthy leaf",
+    "disease_vi": "Lá chè khỏe mạnh",
+    "is_healthy": true
+  }
+]
